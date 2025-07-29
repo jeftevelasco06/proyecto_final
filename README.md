@@ -9,5 +9,5 @@ SQLite (o la base de datos que uses)
 Bootstrap 5 (para diseño básico)
 Cómo ejecutar el proyecto
 Clona el repositorio:
-git clone (https://github.com/jeftevelasco06/studentoverflow/edit/main/README.md)
-cd studentoverflow
+git clone (https://github.com/jeftevelasco06/proyecto_final)
+cd proyecto_final
